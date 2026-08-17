@@ -1,2 +1,2 @@
-# RAMAN-python-app
+# MARI-python-app
 A simple application python
